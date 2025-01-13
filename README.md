@@ -25,7 +25,11 @@ This is a Streamlit web application that predicts the star rating and the main s
    ```bash
    streamlit run app.py
 
+4. **Notebook Python**
+You also have access to our notebook in .ipynb and .pdf formats. It retraces the whole work we've experienced. Please read the comments we left to understand more our way of thinking and of solving problemes encountered.
 
-Enjoy this project :)
+
+Thank for your consideration and reading.
+
 CHAIX Gabriel, LEROY Malo
 
