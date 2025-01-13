@@ -11,7 +11,7 @@ This is a Streamlit web application that predicts the star rating and the main s
 
    ```bash
    git clone https://github.com/malolry/nlp_insurance_reviews.git
-   cd review-prediction-app
+   cd nlp_insurance_reviews
 
 2. **Create a virtual environment and download packages:**
 
